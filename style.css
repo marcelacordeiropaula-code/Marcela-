@@ -1,5 +1,10 @@
 .foto{
-  background-image: URL("");
+  background-image: URL("https://i.makeagif.com/media/8-17-2022/JdK2Cl.gif");
   background-repeat: no-repeat;
   background-size:50%;
+  width:50px;
+  height: 50px;
+}
+body{
+  background-color: red;
 }
